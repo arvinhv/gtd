@@ -2,7 +2,7 @@
 
 ## Usage
 
-
+Please create a file called `.gtd-db.json` in your home dir first.
 
 To show all todo items
 
